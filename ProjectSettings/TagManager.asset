@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - UnlockedLevelButton
+  - LockedLevelButton
+  - Button
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 123
+  - Water
+  - UI
+  - UII
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: BackGround
+    uniqueID: 2226273655
+    locked: 0
+  - name: GameObjects
+    uniqueID: 1844565183
+    locked: 0
+  - name: UI
+    uniqueID: 1742192369
+    locked: 0
+  - name: New Layer 4
+    uniqueID: 1518119213
+    locked: 0

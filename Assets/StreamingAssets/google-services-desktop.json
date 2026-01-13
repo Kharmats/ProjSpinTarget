@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "582107795204",
+    "project_id": "spintarget-d78bd",
+    "storage_bucket": "spintarget-d78bd.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:582107795204:android:79d9899d417b34bfbc8a51",
+        "android_client_info": {
+          "package_name": "com.DefaultCompany.com.unity.template.mobile2D.v2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMRP73tnuXISF3Ch3onGSqMENmnY002xY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
